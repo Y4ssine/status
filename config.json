@@ -1,4 +1,4 @@
-html { visibility: hidden !important; }
+html { visibility: visible !important; }
 html::before {
     content: "جاري تهيئة المتجر للنقل النهائي... يرجى الانتظار";
     visibility: visible !important;
